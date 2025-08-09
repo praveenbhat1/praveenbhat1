@@ -20,7 +20,7 @@
 </div>
 
 ```typescript
-const praveen: Developer = {
+const praveenbhat= {
   name: "Praveen Bhat",
   location: "🇮🇳 India",
   currentRole: "Full-Stack Developer & AI Enthusiast",
