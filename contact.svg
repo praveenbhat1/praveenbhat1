@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="222" viewBox="0 0 820 222" role="img" aria-labelledby="t">
+  <title id="t">Let's build something. Email sowkurpraveenbhat@gmail.com. Available for work.</title>
+  <style>
+    .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .in{opacity:0;animation:f .5s ease-out forwards} @keyframes f{to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}}
+  </style>
+  <rect x=".5" y=".5" width="819" height="221" rx="12" fill="#121313" stroke="#2A2B2B"/>
+  <text x="40" y="44" class="m" font-size="13" fill="#FF6F59">~/contact</text>
+  <text x="780" y="44" class="m" font-size="12" fill="#6F6A62" text-anchor="end">say hi</text>
+  <line x1="40" y1="62" x2="780" y2="62" stroke="#222323"/>
+  <text x="40" y="118" class="s" font-size="38" font-weight="700" fill="#F3E9D2" letter-spacing="-1">Let's build something.</text>
+  <text x="40" y="152" class="m" font-size="16" fill="#FF6F59">sowkurpraveenbhat@gmail.com</text>
+  <text x="40" y="190" class="m" font-size="12.5" fill="#9C9588">praveenbhat.dev</text><text x="190" y="190" class="m" font-size="12.5" fill="#9C9588">linkedin.com/in/spraveenbhat</text><text x="430" y="190" class="m" font-size="12.5" fill="#9C9588">github.com/praveenbhat1</text>
+  <circle cx="620" cy="110" r="5" fill="#5EC962"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <text x="634" y="115" class="s" font-size="13.5" fill="#F3E9D2">Available for work</text>
+  <text x="620" y="140" class="s" font-size="12.5" fill="#6F6A62">Hiring? My inbox has</text>
+  <text x="620" y="158" class="s" font-size="12.5" fill="#6F6A62">100% recall.</text>
+</svg>

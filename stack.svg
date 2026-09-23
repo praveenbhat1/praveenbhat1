@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="406" viewBox="0 0 820 406" role="img" aria-labelledby="t">
+  <title id="t">Tech stack: PyTorch, SigLIP-2, LoRA, Hugging Face, TensorFlow, FastAPI, Node.js, Celery, Redis, React, Next.js, TypeScript, PostgreSQL, MongoDB, Firebase, Razorpay, Twilio, Python.</title>
+  <style>
+    .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .in{opacity:0;animation:f .5s ease-out forwards} @keyframes f{to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}}
+  </style>
+  <rect x=".5" y=".5" width="819" height="405" rx="12" fill="#121313" stroke="#2A2B2B"/>
+  <text x="40" y="44" class="m" font-size="13" fill="#FF6F59">~/stack</text>
+  <text x="780" y="44" class="m" font-size="12" fill="#6F6A62" text-anchor="end">highlighted = daily drivers</text>
+  <line x1="40" y1="62" x2="780" y2="62" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.10s">
+  <text x="40" y="106" class="s" font-size="13" fill="#9C9588">Research &amp; ML</text>
+  <rect x="190" y="88" width="76" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="228" y="105.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">PyTorch</text>
+  <rect x="274" y="88" width="83" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="315" y="105.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">SigLIP-2</text>
+  <rect x="365" y="88" width="105" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="418" y="105.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">LoRA / PEFT</text>
+  <rect x="478" y="88" width="113" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="535" y="105.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Hugging Face</text>
+  <rect x="599" y="88" width="98" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="648" y="105.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">TensorFlow</text>
+  <rect x="190" y="124" width="113" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="246" y="141.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">scikit-learn</text>
+  <rect x="311" y="124" width="68" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="345" y="141.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">OpenCV</text>
+  </g>
+  <g class="in" style="animation-delay:0.18s">
+  <text x="40" y="186" class="s" font-size="13" fill="#9C9588">Backend</text>
+  <rect x="190" y="168" width="76" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="228" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">FastAPI</text>
+  <rect x="274" y="168" width="76" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="312" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Node.js</text>
+  <rect x="358" y="168" width="76" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="396" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Express</text>
+  <rect x="441" y="168" width="68" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="476" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Celery</text>
+  <rect x="518" y="168" width="61" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="548" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Redis</text>
+  <rect x="587" y="168" width="46" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="610" y="185.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">JWT</text>
+  </g>
+  <g class="in" style="animation-delay:0.26s">
+  <text x="40" y="230" class="s" font-size="13" fill="#9C9588">Frontend</text>
+  <rect x="190" y="212" width="61" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="220" y="229.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">React</text>
+  <rect x="259" y="212" width="76" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="297" y="229.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Next.js</text>
+  <rect x="343" y="212" width="98" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="392" y="229.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">TypeScript</text>
+  <rect x="449" y="212" width="113" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="505" y="229.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Tailwind CSS</text>
+  </g>
+  <g class="in" style="animation-delay:0.34s">
+  <text x="40" y="274" class="s" font-size="13" fill="#9C9588">Data &amp; cloud</text>
+  <rect x="190" y="256" width="98" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="239" y="273.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">PostgreSQL</text>
+  <rect x="296" y="256" width="76" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="334" y="273.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">MongoDB</text>
+  <rect x="380" y="256" width="83" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="421" y="273.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Firebase</text>
+  </g>
+  <g class="in" style="animation-delay:0.42s">
+  <text x="40" y="318" class="s" font-size="13" fill="#9C9588">Payments &amp; APIs</text>
+  <rect x="190" y="300" width="83" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="232" y="317.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Razorpay</text>
+  <rect x="281" y="300" width="68" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="315" y="317.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Twilio</text>
+  <rect x="358" y="300" width="83" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="399" y="317.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">SendGrid</text>
+  </g>
+  <g class="in" style="animation-delay:0.50s">
+  <text x="40" y="362" class="s" font-size="13" fill="#9C9588">Languages</text>
+  <rect x="190" y="344" width="68" height="26" rx="13" fill="#FF6F59" fill-opacity="0.12" stroke="#FF6F59"/><text x="224" y="361.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">Python</text>
+  <rect x="266" y="344" width="98" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="315" y="361.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">TypeScript</text>
+  <rect x="372" y="344" width="98" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="421" y="361.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">JavaScript</text>
+  <rect x="478" y="344" width="46" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="502" y="361.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">C++</text>
+  <rect x="533" y="344" width="31" height="26" rx="13" fill="none" fill-opacity="0" stroke="#34302C"/><text x="548" y="361.5" text-anchor="middle" class="m" font-size="12" fill="#F3E9D2">C</text>
+  </g>
+</svg>

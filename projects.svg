@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="470" viewBox="0 0 820 470" role="img" aria-labelledby="t">
+  <title id="t">Selected work: Pedestrian Attribute Recognition 91.1% mA, RetinaAI 87% accuracy, Revora SaaS, Sri Vinayaka Temple Platform with live payments, VEC Atelier, AgriTech.</title>
+  <style>
+    .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif} .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .in{opacity:0;animation:f .5s ease-out forwards} @keyframes f{to{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.in{animation:none;opacity:1}}
+  </style>
+  <rect x=".5" y=".5" width="819" height="469" rx="12" fill="#121313" stroke="#2A2B2B"/>
+  <text x="40" y="44" class="m" font-size="13" fill="#FF6F59">~/work</text>
+  <text x="780" y="44" class="m" font-size="12" fill="#6F6A62" text-anchor="end">full story at praveenbhat.dev</text>
+  <line x1="40" y1="62" x2="780" y2="62" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.10s"><text x="40" y="100" class="s" font-size="16" font-weight="600" fill="#F3E9D2">Pedestrian Attribute Recognition</text><text x="40" y="121" class="s" font-size="13" fill="#9C9588">Interpretable SigLIP-2 + LoRA model, IEEE manuscript</text><text x="780" y="100" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">91.1% mA</text><text x="780" y="121" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">PyTorch · LoRA · FastAPI · React</text></g>
+  <line x1="40" y1="137" x2="780" y2="137" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.20s"><text x="40" y="160" class="s" font-size="16" font-weight="600" fill="#F3E9D2">RetinaAI</text><text x="40" y="181" class="s" font-size="13" fill="#9C9588">Diabetic retinopathy diagnostics, used by real users</text><text x="780" y="160" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">87% acc</text><text x="780" y="181" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">TensorFlow · OpenCV · FastAPI</text></g>
+  <line x1="40" y1="197" x2="780" y2="197" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.30s"><text x="40" y="220" class="s" font-size="16" font-weight="600" fill="#F3E9D2">Revora</text><text x="40" y="241" class="s" font-size="13" fill="#9C9588">Multi-tenant review-automation SaaS</text><text x="780" y="220" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">SaaS</text><text x="780" y="241" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">FastAPI · Celery · Redis · Twilio</text></g>
+  <line x1="40" y1="257" x2="780" y2="257" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.40s"><text x="40" y="280" class="s" font-size="16" font-weight="600" fill="#F3E9D2">Sri Vinayaka Temple Platform</text><text x="40" y="301" class="s" font-size="13" fill="#9C9588">Seva booking, live payments and PDF receipts</text><text x="780" y="280" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">Live ₹</text><text x="780" y="301" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">Next.js · Firebase · Razorpay</text></g>
+  <line x1="40" y1="317" x2="780" y2="317" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.50s"><text x="40" y="340" class="s" font-size="16" font-weight="600" fill="#F3E9D2">VEC Atelier</text><text x="40" y="361" class="s" font-size="13" fill="#9C9588">Full-stack e-commerce platform</text><text x="780" y="340" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">Full-stack</text><text x="780" y="361" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">React · Node.js · MongoDB</text></g>
+  <line x1="40" y1="377" x2="780" y2="377" stroke="#222323"/>
+  <g class="in" style="animation-delay:0.60s"><text x="40" y="400" class="s" font-size="16" font-weight="600" fill="#F3E9D2">AgriTech</text><text x="40" y="421" class="s" font-size="13" fill="#9C9588">Crop-prediction ML platform for farmers</text><text x="780" y="400" class="s" font-size="16" font-weight="700" fill="#FF6F59" text-anchor="end">ML</text><text x="780" y="421" class="m" font-size="11.5" fill="#6F6A62" text-anchor="end">Python · Random Forest · Flask</text></g>
+</svg>
